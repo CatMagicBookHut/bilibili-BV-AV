@@ -22,7 +22,7 @@ namespace BVAV
                 MessageBox.Show("请输入BV号", "标题", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
-            if((UUID.Text) == "请输入UP主的ID")
+            if((UUID.Text) == "请输入BV号")
             {
                 MessageBox.Show("请输入BV号", "标题", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
