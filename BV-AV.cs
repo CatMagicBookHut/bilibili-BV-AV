@@ -11,25 +11,8 @@ using System.Windows.Forms;
 using System.IO;
 using System.Net;
 
-namespace UP主动态更新
+namespace BVAV
 {
-    public partial class 获取av号 : Form
-    {
-        public 获取av号()
-        {
-            InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         //按钮
         private void search_Click(object sender, EventArgs e)
         {
